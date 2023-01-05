@@ -1,0 +1,20 @@
+{
+  "name": "asaplogs",
+  "version": "1.0.0",
+  "description": "Logs system for ASAP",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "gonzalolog",
+  "license": "ISC",
+  "dependencies": {
+    "@pm2/io": "^5.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jade-bootstrap": "^1.0.14",
+    "mysql": "^2.18.1",
+    "ps-node": "^0.1.6",
+    "pug": "^3.0.0"
+  }
+}
